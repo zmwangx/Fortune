@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Fortune",
+  "version": "0.1",
+  "description": "fortune(6) on your new tab page",
+  "author": "Zhiming Wang",
+  "homepage_url": "https://github.com/zmwangx/Fortune",
+  "chrome_url_overrides": {
+    "newtab": "fortune.html"
+  }
+}
