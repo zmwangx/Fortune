@@ -2,6 +2,8 @@
 
 A Chrome extension to put `fortune(6)` in your new tab page.
 
+<img src="https://raw.githubusercontent.com/zmwangx/Fortune/master/screenshot.png" width="628" height="384">
+
 # Notes
 
 - Fortune data came from [`fortune-mod-9708`](https://www.ibiblio.org/pub/linux/games/amusements/fortune/fortune-mod-9708.tar.gz). All non-offensive fortunes are included.
