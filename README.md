@@ -1,5 +1,7 @@
 # Fortune
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/poifmmhbafgjfiahfaamigdkdeeieadj.svg)](https://chrome.google.com/webstore/detail/fortune/poifmmhbafgjfiahfaamigdkdeeieadj)
+
 A Chrome extension to put `fortune(6)` in your new tab page.
 
 <img src="https://raw.githubusercontent.com/zmwangx/Fortune/master/screenshot.png" width="628" height="384">
