@@ -2,7 +2,20 @@
 <html>
 <head>
   <title>New Tab</title>
-  <style>#fortune { font: 10pt Courier, monospace; white-space: pre; padding: 2em; }</style>
+  <style>
+    #fortune {
+      font: 10pt Courier, monospace;
+      white-space: pre;
+      padding: 2em;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        color: #eee;
+        background-color: #323639;
+      }
+    }
+  </style>
 </head>
 <body>
   <div id="fortune"></div>
