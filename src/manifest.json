@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Fortune",
-  "version": "0.2",
+  "version": "0.3",
   "description": "fortune(6) on your new tab page",
   "author": "Zhiming Wang",
   "homepage_url": "https://github.com/zmwangx/Fortune",
